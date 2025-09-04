@@ -10,3 +10,7 @@ I'm a full-stack web/mobile developer from **Santa Catarina, Brazil**.
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></code>
+
+### 📫 Contact me:
+
+Please fill up an [Issue here](https://github.com/luicfrr/luicfrr/issues/new?template=contact_me.md) and I'll reply you ASAP
